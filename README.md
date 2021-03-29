@@ -1,15 +1,15 @@
 
 ## 佛跳墙（fotiaoqiang）最新版本下载 Latest version of fotiaoqiang
 - <a href="https://getfotiaoqiang.cf/downloads/2.6.5/fotiaoqiang-v2.6.5-1.apk"> Android </a>
-- <a href="http://s3.amazonaws.com/fotiaoqiang/fotiaoqiang-v2.6.5-1.apk"> Android备用下载地址 </a>
+- <a href="https://s3.amazonaws.com/fotiaoqiang/fotiaoqiang-v2.6.5-1.apk"> Android备用下载地址 </a>
 - <a href="https://gitlab.com/fotiaoqiang/download/-/blob/master/fotiaoqiang-v2.6.5-1.apk"> Android备用下载地址2 </a>
 - <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.6.5/fotiaoqiang-v2.6.5-1.apk"> Android备用下载地址3 </a>
 - <a href="https://getfotiaoqiang.cf/downloads/2.6.2/fotiaoqiang-2.6.2-1-Setup.exe.apk"> Windows </a>
-- <a href="http://s3.amazonaws.com/fotiaoqiang/fotiaoqiang-2.6.2-1-Setup.exe"> Windows备用下载地址 </a>
+- <a href="https://s3.amazonaws.com/fotiaoqiang/fotiaoqiang-2.6.2-1-Setup.exe"> Windows备用下载地址 </a>
 - <a href="https://gitlab.com/fotiaoqiang/download/-/blob/master/fotiaoqiang-2.6.2-1-Setup.exe"> Windows备用下载地址2 </a>
 - <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.6.2/fotiaoqiang-2.6.2-1-Setup.exe"> Windows备用下载地址3 </a>
 - <a href="https://getfotiaoqiang.cf/downloads/2.6.2/v262-1_fotiaoqiang_darwin_amd64_install.dmg"> Mac OS </a>
-- <a href="http://s3.amazonaws.com/fotiaoqiang/v262-1_fotiaoqiang_darwin_amd64_install.dmg"> Mac OS备用下载地址 </a>
+- <a href="https://s3.amazonaws.com/fotiaoqiang/v262-1_fotiaoqiang_darwin_amd64_install.dmg"> Mac OS备用下载地址 </a>
 - <a href="https://gitlab.com/fotiaoqiang/download/-/blob/master/v262-1_fotiaoqiang_darwin_amd64_install.dmg"> Mac OS备用下载地址2 </a>
 - <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.6.2/v262-1_fotiaoqiang_darwin_amd64_install.dmg"> Mac OS备用下载地址3 </a>
 - <a href="https://www.yaoleguan.com/download/ios/"> IOS </a> 
