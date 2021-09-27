@@ -1,6 +1,6 @@
 
 ## 佛跳墙（fotiaoqiang）最新版本下载 Latest version of fotiaoqiang
-- <a href="https://getfotiaoqiang.cf/downloads/2.7.9/fotiaoqiang-v2.7.9-1.apk"> Android </a>
+- <a href="https://getfotiaoqiang.cf/downloads/2.7.10/fotiaoqiang-v2.7.10-2.apk"> Android </a>
 - <a href="https://s3.amazonaws.com/fotiaoqiang/fotiaoqiang-v2.7.9-1.apk"> Android备用下载地址 </a>
 - <a href="https://gitlab.com/fotiaoqiang/download/-/blob/master/fotiaoqiang-v2.7.9-1.apk"> Android备用下载地址2 </a>
 - <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.7.9/fotiaoqiang-v2.7.9-1.apk"> Android备用下载地址3 </a>
